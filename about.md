@@ -4,19 +4,21 @@ title: About
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
 
-## Profile Image
+## Nuclear Piston Egine
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/nucleapiston.jpg">
 
 ## References
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
-
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+A. Haghani Dogahe, A. Pazirandeh, A. Abbaspour,
+Study of nuclear gas fuel for a nuclear engine with cylinder and piston structure, using Monte Carlo method,
+Annals of Nuclear Energy,
+Volume 62,
+2013,
+Pages 117-122,
+ISSN 0306-4549,
+https://doi.org/10.1016/j.anucene.2013.05.039.
+(https://www.sciencedirect.com/science/article/pii/S0306454913002958)
+Abstract: In this paper, an expedient gaseous fuel for a nuclear engine based on cylinder and piston structure from neutronic viewpoint is investigated. Criticality conditions and multiplication factors of twelve important fissionable isotopes in pure hexafluoride form (namely, U233, U235, U238, Pu239, Pu240, Pu241, Am241, Am242, Th230, Th232 and Np237) are compared. The cylindrical geometry containing gaseous fuel and surrounded by 100cm graphite reflector is modelled by MCNP code. Computing is done in the range of 500–2500K, 1–600atm and 0.03–14m3 of core temperature, pressure and volume respectively. NJOY nuclear data processing system code and ENDF6 nuclear database are applied to prepare the cross-section libraries for MCNP code. A FORTAN program is developed to run NJOY in order to create MCNP libraries at high temperatures and pressures, also to compose MCNP input files for different executions. High temperature and pressure requirements reported by previous works may hinder economical or technical use of such engines. Selecting proper fuel, however, is proved to make it feasible to employ gas fueled nuclear engine at reasonable temperature and pressures, as suggested by present work.
+Keywords: Nuclear engine; Cylindrical geometry; Gaseous fuel; Critical in the gaseous state; Multiplication factor; MCNP code
